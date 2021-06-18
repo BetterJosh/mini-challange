@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+main{
+  length: 80%;
+  width: 80%;
+}
+.placeholder{
+  background-size: cover;
+}
